@@ -2,6 +2,10 @@
 
 An end-to-end sales analytics portfolio project by **Md Abdul Wahid Raju**, using Python, pandas, Plotly and Dash. The analysis connects revenue growth to gross profitability across channels, countries, categories and products.
 
+## Video demo
+
+[▶ Watch the two-minute dashboard demo on LinkedIn](https://lnkd.in/p/e4CsK4Cb)
+
 ![Dashboard overview](screenshots/dashboard_overview.png)
 
 ## Business questions
